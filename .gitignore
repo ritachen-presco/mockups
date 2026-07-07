@@ -1,0 +1,11 @@
+# 安全:防止「明文原始 mockup」誤進公開 repo(只允許加密後的檔)
+*.src.html
+*.plain.html
+_src/
+_source/
+明文/
+
+# OS / 編輯器雜物
+.DS_Store
+Thumbs.db
+*.tmp
